@@ -1,7 +1,5 @@
 # 👋 Hello! I'm Aman Kumar 
 
-[![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23594560)](https://github.com/sponsors/amankumarp)
-[![message](https://img.shields.io/static/v1?label=SendMessage&message=%E2%9D%A4&color=%23594560)](https://github.com/amankumarp/amankumarp/issues/1#issuecomment-new)
 [![ProfileViews](https://komarev.com/ghpvc/?username=amankumarp&label=Profile%20views&color=594560&style=flat)](https://wakatime.com/@amankumarp)
 [![GitHub](https://img.shields.io/github/followers/amankumarp?label=follow&style=social)](http://amankumarp.github.io/)
 
