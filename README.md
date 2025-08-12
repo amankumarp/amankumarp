@@ -66,12 +66,14 @@
 
 
 ---
-### Trophy
+### 🏆 GitHub Trophies
 <!--- stats & Trophy (start) -->
 <div align="center">
   <a href="https://amankumarp.github.io"><img src="https://github-profile-trophy.vercel.app/?username=amankumarp&title=Stars,Commits,Repositories,Followers,Experience,Issues,PullRequest,Reviews&theme=gruvbox" alt="amankumarp" /></a>
 
 </div>
+
+### 📊 GitHub Stats
 
 <p align="center">
   <!--- stats (start) -->
@@ -93,11 +95,6 @@
 </tr>
 </table>
 
-<div align="center">
-
-##### _Overview Journey 🏆_
-
-</div>
 <!--- stats (end) -->
 
 <br>
@@ -109,11 +106,6 @@
     </a>
 </div>
 
-<div align=center>
-
-##### _Fight Every Week ⚔_
- 
-</div>
 <!--- waka (end) -->
 
 <br>
@@ -126,18 +118,18 @@
     </a>
 </div>
 
-<div align=center>
-    
-##### _Looking back 1 year ✨_
-
-</div>
 
 <!--- profile (end) -->
 
 </p>        
 <!--- stats & Trophy (end) -->
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### ✍️ Dev Quote
+<div align="center">
+<a  href="https://amankumarp.github.io" title="Go to Source">
+    <img  align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="" />
+    </a>
+</div>
 
 ---
 
