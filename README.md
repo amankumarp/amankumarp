@@ -63,15 +63,13 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=amankumarp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=amankumarp&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=amankumarp&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=amankumarp&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amankumarp&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amankumarp&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -80,6 +78,9 @@
 
 ## 📈 Contribution Graph
 [![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amankumarp&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
