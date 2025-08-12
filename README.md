@@ -1,10 +1,12 @@
-# Hello! 👋 Who am I?  
-- 🔭 Blockchain developer with 4.5+ years of experience | DeFi, DEX, DApps  
+# 👋 Hello! I'm Aman Kumar 
+
+- 🔭 Blockchain developer with **4.5+ years** of experience | DeFi, DEX, DApps, Enterprise Blockchain Apps  
 - 🌱 Go · Python · JavaScript · TypeScript · Solidity · Node.js · gRPC  
-- 👍 Cosmos · CometBFT · Tendermint · Oasis · Layer-2 · zk-Rollup · zk-SNARKs · zk-Circuit  
+- 👍 Cosmos · Oasis · CometBFT · Tendermint · Layer-2 · zk-Rollup · zk-SNARK · zk-Circuit  
 - ☁️ Cloud & DevOps – AWS · Docker · GitHub  
-- 🗄 Databases – PostgreSQL · MongoDB · Redis  
+- 🗄 Databases – PostgreSQL · MySQL · MongoDB  
 - 📊 Tools & APIs – Grafana · Prometheus · GraphQL · SwaggerJS · Express · Streamlit  
+- 🌐 Web3 & Frameworks – Web3.js · Ethers.js · WAGMI · RainbowKit · Thirdweb · React.js · Next.js · Vite.js  
 
 ---
 
@@ -56,3 +58,29 @@
 <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/></a>
 <a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/></a>
 <a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/></a>
+
+
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=amankumarp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=amankumarp&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amankumarp&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amankumarp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![](https://komarev.com/ghpvc/?username=amankumarp&style=for-the-badge&color=blue)
+
+## 📈 Contribution Graph
+[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amankumarp&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+
