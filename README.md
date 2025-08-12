@@ -1,5 +1,10 @@
 # 👋 Hello! I'm Aman Kumar 
 
+[![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23594560)](https://github.com/sponsors/amankumarp)
+[![message](https://img.shields.io/static/v1?label=SendMessage&message=%E2%9D%A4&color=%23594560)](https://github.com/amankumarp/amankumarp/issues/1#issuecomment-new)
+[![ProfileViews](https://komarev.com/ghpvc/?username=amankumarp&label=Profile%20views&color=594560&style=flat)](https://wakatime.com/@amankumarp)
+[![GitHub](https://img.shields.io/github/followers/amankumarp?label=follow&style=social)](http://amankumarp.github.io/)
+
 - 🔭 Blockchain developer with **4.5+ years** of experience | DeFi, DEX, DApps, Enterprise Blockchain Apps  
 - 🌱 Go · Python · JavaScript · TypeScript · Solidity · Node.js · gRPC  
 - 👍 Cosmos · Oasis · CometBFT · Tendermint · Layer-2 · zk-Rollup · zk-SNARK · zk-Circuit  
@@ -61,27 +66,76 @@
 
 
 ---
+### Trophy
+<!--- stats & Trophy (start) -->
+<div align="center">
+  <a href="https://amankumarp.github.io"><img src="https://github-profile-trophy.vercel.app/?username=amankumarp&title=Stars,Commits,Repositories,Followers,Experience,Issues,PullRequest,Reviews&theme=gruvbox" alt="amankumarp" /></a>
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=amankumarp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-### GitHub Streak
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=amankumarp&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/>
+</div>
 
-### Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+  <td width="50%" align="center">
+    <img  align="center" alt=""  src="https://leetcard.jacoblin.cool/amankumarp?theme=dark&font=ABeeZee&ext=heatmap" />
+    <br></br>
+    <img align="center" alt="" src="https://github-readme-streak-stats-eight.vercel.app/?user=amankumarp&theme=dark&hide_border=false" />
+    <br></br>
+  </td>
+  
+  <td width="50%" align="center">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amankumarp&theme=dark" alt="1999AZZAR :: Top Langs by repo" />
+    <br></br>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amankumarp&theme=dark" alt="1999AZZAR :: Top Langs by commit" />
+    <br></br>
+  </td>
+</tr>
+</table>
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amankumarp&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+
+##### _Overview Journey 🏆_
+
+</div>
+<!--- stats (end) -->
+
+<br>
+
+<!--- waka (start) -->
+<div align=center>
+  <a href="https://wakatime.com/@amankumarp" title="Go to Source">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=amankumarp&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="" />
+    </a>
+</div>
+
+<div align=center>
+
+##### _Fight Every Week ⚔_
+ 
+</div>
+<!--- waka (end) -->
+
+<br>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amankumarp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!--- profile (start) -->
+<div align=center>
+  <a href="https://amankumarp.github.io" title="Go to Source">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amankumarp&theme=dark" alt="" />
+    </a>
+</div>
 
-![](https://komarev.com/ghpvc/?username=amankumarp&style=for-the-badge&color=blue)
+<div align=center>
+    
+##### _Looking back 1 year ✨_
 
-## 📈 Contribution Graph
-[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amankumarp&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
+<!--- profile (end) -->
+
+</p>        
+<!--- stats & Trophy (end) -->
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
